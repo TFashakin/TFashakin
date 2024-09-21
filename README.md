@@ -1,6 +1,7 @@
 👋 Hi, I’m Timi, a student at UA92 studying Computer Science Bsc(Hons), passionate about Information Security, Software Development, and all things Linux.
 
 About Me 🎓
+
 🔒 Information Security Enthusiast with a keen interest in penetration testing, ethical hacking, and securing digital environments.
 💻 Aspiring Software Developer, proficient in Python, and currently exploring Java and C, with a view to building real-world applications.
 🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects, and enjoy exploring the power of open-source tools.
@@ -25,4 +26,4 @@ Wireshark, Snort, Nmap
 
 Connect with Me 🌐
 Email: fashakintimi@gmail.com
-GitHub: GIthub.com/TFashakin
+GitHub: Github.com/TFashakin
