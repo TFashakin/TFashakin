@@ -1,8 +1,8 @@
-👋 Hi, I’m Timi, a student at UA92 studying Computer Science Bsc(Hons), passionate about Information Security, Software Development, and all things Linux.
+👋 Hi, I’m Timi, a Computer Science student at UA92, passionate about Information Security, Software Development, and all things Linux.
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
 
 <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,7 +21,6 @@
 
 ![Timi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFashakin&show_icons=true&theme=normal)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TFashakin&theme=normal&border_radius=4.5) -->
 
 
 
