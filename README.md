@@ -52,16 +52,18 @@ Programming Languages:
 Python
 C
 Java
+
 Technologies & Tools:
 Linux
 Git
 Docker
 Bash Scripting
+
 Security Tools:
 Wireshark
 Snort
 Nmap
+
 Connect with Me 🌐
 Email: fashakintimi@gmail.com
 GitHub: Github.com/TFashakin
-This formatting uses bullet points and clear separations between sections, making it easy to read and
