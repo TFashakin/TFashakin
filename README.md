@@ -29,12 +29,11 @@
 </div>
 
 About Me 🎓
-
 🔒 Information Security Enthusiast with a keen interest in penetration testing, ethical hacking, and securing digital environments.
 
-💻 Aspiring Software Developer, proficient in Python, and currently exploring Java and C, with a view to building real-world applications.
+💻 Aspiring Software Developer, proficient in Python and currently exploring Java and C, with a view to building real-world applications.
 
-🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects, and enjoy exploring the power of open-source tools.
+🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects and enjoy exploring the power of open-source tools.
 
 🛠️ Constantly working on personal projects to deepen my understanding of cybersecurity and software development.
 
@@ -47,17 +46,22 @@ Here are a few of my current and upcoming projects:
 
 📊 Vulnerability Scanner – A web vulnerability scanner for detecting common security flaws like SQL Injection and XSS.
 
-💻 Daily Planner - Building an app which organizes and creates a schedule based on the needs of the user
+💻 Daily Planner – Building an app that organizes and creates a schedule based on the needs of the user.
 
 Programming Languages:
-Python, C, Java
-
+Python
+C
+Java
 Technologies & Tools:
-Linux, Git, Docker, Bash Scripting
-
+Linux
+Git
+Docker
+Bash Scripting
 Security Tools:
-Wireshark, Snort, Nmap
-
+Wireshark
+Snort
+Nmap
 Connect with Me 🌐
 Email: fashakintimi@gmail.com
 GitHub: Github.com/TFashakin
+This formatting uses bullet points and clear separations between sections, making it easy to read and
