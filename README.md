@@ -23,7 +23,7 @@ About Me 🎓
 
 
 
-  Projects 🚀
+</div>Projects 🚀
 Here are a few of my current and upcoming projects:
 
 🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.
