@@ -31,8 +31,11 @@
 About Me 🎓
 
 🔒 Information Security Enthusiast with a keen interest in penetration testing, ethical hacking, and securing digital environments.
+
 💻 Aspiring Software Developer, proficient in Python, and currently exploring Java and C, with a view to building real-world applications.
+
 🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects, and enjoy exploring the power of open-source tools.
+
 🛠️ Constantly working on personal projects to deepen my understanding of cybersecurity and software development.
 
 Projects 🚀
