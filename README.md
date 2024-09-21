@@ -10,7 +10,7 @@ About Me 🎓
 Projects 🚀
 Here are a few of my current and upcoming projects:
 
-🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.
+🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.\n
 🔍 Port Scanner – Building a tool to scan and analyze open ports in a network using Python’s socket library.
 📊 Vulnerability Scanner – A web vulnerability scanner for detecting common security flaws like SQL Injection and XSS.
 💻 Daily Planner - Building an app which organizes and creates a schedule based on the needs of the user
