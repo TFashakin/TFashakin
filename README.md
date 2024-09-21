@@ -1,12 +1,4 @@
 👋 Hi, I’m Timi, a student at UA92 studying Computer Science Bsc(Hons), passionate about Information Security, Software Development, and all things Linux.
-
-About Me 🎓
-
-🔒 Information Security Enthusiast with a keen interest in penetration testing, ethical hacking, and securing digital environments.
-💻 Aspiring Software Developer, proficient in Python, and currently exploring Java and C, with a view to building real-world applications.
-🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects, and enjoy exploring the power of open-source tools.
-🛠️ Constantly working on personal projects to deepen my understanding of cybersecurity and software development.
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -21,9 +13,23 @@ About Me 🎓
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /
 </div>
 
+![Timi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFashakin&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TFashakin&theme=gruvbox&border_radius=4.5) -->
 
 
-</div>Projects 🚀
+
+
+</div>
+
+About Me 🎓
+
+🔒 Information Security Enthusiast with a keen interest in penetration testing, ethical hacking, and securing digital environments.
+💻 Aspiring Software Developer, proficient in Python, and currently exploring Java and C, with a view to building real-world applications.
+🐧 Linux Enthusiast – I love working in a Linux environment for development and security projects, and enjoy exploring the power of open-source tools.
+🛠️ Constantly working on personal projects to deepen my understanding of cybersecurity and software development.
+
+Projects 🚀
 Here are a few of my current and upcoming projects:
 
 🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.
