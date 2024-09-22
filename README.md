@@ -1,6 +1,7 @@
 👋 Hi, I’m Timi, a Computer Science student at UA92, passionate about Information Security and all things Linux.
 
-### 🧰 Languages and Tools
+### 🧰 Favourite Tech
+***
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
 
@@ -27,7 +28,7 @@
 
 
 </div>
-
+***
 Projects 🚀
 Here are a few of my current and upcoming projects:
 
