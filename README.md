@@ -1,8 +1,7 @@
 👋 Hi, I’m Timi, a Computer Science student at UA92, passionate about Information Security and all things Linux.
 
+****
 ### 🧰 Favourite Tech
-***
-
 <div style="display: flex; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
 
 <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,10 +28,11 @@
 
 </div>
 
+***
 Projects 🚀
 Here are a few of my current and upcoming projects:
 
-***
+
 🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.
 
 🔍 Port Scanner – Building a tool to scan and analyze open ports in a network using Python’s socket library.
