@@ -1,4 +1,4 @@
-👋 Hi, I’m Timi Fashakin, a Computer Science student at UA92, passionate about Information Security and all things Linux.
+
 
 ****
 ### 🧰 Favourite Tech
