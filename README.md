@@ -27,36 +27,3 @@
 
 
 </div>
-
-***
-Projects 🚀
-Here are a few of my current and upcoming projects:
-
-
-🔑 Password Strength Checker – A Python-based tool to evaluate password security based on multiple criteria like length, special characters, and complexity.
-
-🔍 Port Scanner – Building a tool to scan and analyze open ports in a network using Python’s socket library.
-
-📊 Vulnerability Scanner – A web vulnerability scanner for detecting common security flaws like SQL Injection and XSS.
-
-💻 Daily Planner – Building an app that organizes and creates a schedule based on the needs of the user.
-
-Programming Languages:
-Python
-C
-Java
-
-Technologies & Tools:
-Linux
-Git
-Docker
-Bash Scripting
-
-Security Tools:
-Wireshark
-Snort
-Nmap
-
-Connect with Me 🌐
-Email: fashakintimi@gmail.com
-GitHub: Github.com/TFashakin
